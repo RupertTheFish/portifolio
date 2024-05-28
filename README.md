@@ -33,8 +33,9 @@ Estou entusiasmado em compartilhar meu portfólio pessoal com você. Este projet
 ```markdown
 |-- index.html
 |-- css
-|   |-- styles.css
-|   |-- responsive.css
+|   |-- estiloss.css
+    |-- reset.css
+|   |-- responsivo.css
 |-- js
 |   |-- main.js
 |   |-- api.js
